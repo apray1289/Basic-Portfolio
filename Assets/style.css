@@ -1,5 +1,6 @@
-body{
-  margin: 0;  
+
+body{ 
+  margin: 0;
   background-image: url("https://lh3.googleusercontent.com/7qJOg4aVmM4-5eT_tqmWqN8DI2GBZ9ZBMfXLy6QuIp918DMwDrsS3aZ2MbXsTw-b4gCydQ-S_mgW2Fe3sWe_5Y92fKq11dDaM_pZ8cWerg-a34qKvYAU-CDwNdMvFFRbMpy8iah_svUHi_M8LTOU8khqKtcXBKQzr_eTdNcdM_fJMCTSG_P3_4dxO4KJuYQXSXh6JoXJUWjJK362RirPHUmiJ4cjupHpppMBwVP4pzwAfK2xGLBA8qgHkKdqh6wmgtHahA0-TBwxGpjCNJbqISYaFu_V-xArBALUM4anQTRD8IJY0a6hTxHPm87dAsAySKIuUN8sfrhrlmqE2MVSlIIkpzqEiEBiD3ZE0Xrp2WYtdKdEU8KGO3WB3Pgs9yA3XrW7monpxlXqK3HqWH7BV5SJ5wswtPJ1TA81oc26VTs2z6qf9tjdPHukD61kNI5J2nSMP2RZSx4ZMNL4p3zXSb83oYfnLCoqO8XIjep5s2zBcq0QDfpeglxkNInRkkzxKkl7uXeUgrl_xRagEtSZ50kPxMVpkT_UDt-zOfali9BmTPweX2eXn6uxj9QA6Zty0QnuSEMkMKSFinF7V9aVQf8tIjdgb9QAQ0ASqm6Wtzkh5Pr3GWPx-6lqa8zcqzQhNLuySQub8JiLu2XpwXL82Vk40j_ovLk=s400-no");
 }
 
@@ -12,7 +13,7 @@ header {
 
 .main-nav {
     overflow: hidden;
-    margin-right: 13%;
+    margin-right: 13.5%;
   }
   
   .main-nav a {
